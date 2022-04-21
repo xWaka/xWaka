@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rob Lee</h1>
-<h3 align="center">I'm a self-taught developer and UX Designer from Maryland</h3>
+<h1>Hi 👋, I'm Rob Lee</h1>
+<h3>I'm a self-taught developer and UX Designer from Maryland</h3>
 
 - 🌱 I’m currently learning **React**
 
